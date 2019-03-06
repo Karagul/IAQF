@@ -1,0 +1,11 @@
+"Rsquareds","varExplained","dependents"
+0.818643886207164,98.1388157488233,c("CDX.IG_5Y", "HYOAS_Spreads", "SP500Ch", "LQD_volch", "HYG_volch", "JNK_volch", "original_spreads")
+0.817279649617919,98.1997805459741,c("CDX.IG_5Y", "HYOAS_Spreads", "SP500Ch", "SP500Vol_Ch", "LQD_volch", "HYG_volch", "original_spreads")
+0.814999061417728,98.165382014954,c("CDX.IG_5Y", "HYOAS_Spreads", "SP500Ch", "SP500Vol_Ch", "LQD_volch", "JNK_volch", "original_spreads")
+0.812844209912837,98.2059495204687,c("CDX.IG_5Y", "HYOAS_Spreads", "SP500Ch", "SP500Vol_Ch", "HYG_volch", "JNK_volch", "original_spreads")
+0.812608567470652,98.1132009024131,c("CDX.IG_5Y", "HYOAS_Spreads", "SP500Vol_Ch", "LQD_volch", "HYG_volch", "JNK_volch", "original_spreads")
+0.81097285224002,98.4372686461199,c("CDX.IG_5Y", "HYOAS_Spreads", "SP500Vol_Ch", "SP500_DY", "LQD_volch", "HYG_volch", "original_spreads")
+0.808324465342903,98.4853127849586,c("CDX.IG_5Y", "HYOAS_Spreads", "SP500Ch", "SP500_DY", "LQD_volch", "JNK_volch", "original_spreads")
+0.808137639331517,98.5157511497732,c("CDX.IG_5Y", "HYOAS_Spreads", "SP500Ch", "SP500Vol_Ch", "SP500_DY", "LQD_volch", "original_spreads")
+0.805570683840393,98.8559950032808,c("CDX.IG_5Y", "HYOAS_Spreads", "SP500Ch", "Ind_Production", "HYG_volch", "JNK_volch", "original_spreads")
+0.804803969682097,98.4757367852936,c("CDX.IG_5Y", "HYOAS_Spreads", "SP500Ch", "SP500_DY", "LQD_volch", "HYG_volch", "original_spreads")

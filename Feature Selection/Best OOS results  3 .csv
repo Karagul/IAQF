@@ -1,0 +1,11 @@
+"Rsquareds","varExplained","dependents"
+0.810770554034846,98.5991961290662,c("CDX.IG_5Y", "HYOAS_Spreads", "original_spreads")
+0.809173699818375,97.9374596006724,c("HYOAS_Spreads", "LQD_volch", "original_spreads")
+0.806286718020587,98.0350081989131,c("HYOAS_Spreads", "HYG_volch", "original_spreads")
+0.803792313319711,97.9083399103018,c("HYOAS_Spreads", "JNK_volch", "original_spreads")
+0.803705544319128,97.7122015938237,c("CDX.IG_5Y", "LQD_volch", "original_spreads")
+0.801968251318544,98.1514894887658,c("HYOAS_Spreads", "SP500Vol_Ch", "original_spreads")
+0.796341923213343,97.7853311687218,c("CDX.IG_5Y", "HYG_volch", "original_spreads")
+0.796153763372954,97.6806964767278,c("CDX.IG_5Y", "JNK_volch", "original_spreads")
+0.785081454018361,98.2073595571516,c("HYOAS_Spreads", "SP500Ch", "original_spreads")
+0.774570966790329,97.7361263297815,c("CDX.IG_5Y", "SP500Vol_Ch", "original_spreads")
