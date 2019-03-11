@@ -1,0 +1,11 @@
+"Rsquareds","varExplained","dependents"
+0.635828861307114,99.1546625798161,c("CDX.IG_5Y", "HYOAS_Spreads", "SP500Ch", "SP500Vol_Ch", "SP500_DY", "Tbill_3month", "CPI", "Ind_Production", "GDP_ch", "LQD_volch", "HYG_volch", "JNK_volch", "original_spreads")
+0.590611507438487,99.1485217110661,c("CDX.IG_5Y", "HYOAS_Spreads", "SP500Ch", "SP500Vol_Ch", "SP500_DY", "Tbill_6month", "CPI", "Ind_Production", "GDP_ch", "LQD_volch", "HYG_volch", "JNK_volch", "original_spreads")
+0.587444984180952,99.0672992969563,c("CDX.IG_5Y", "HYOAS_Spreads", "SP500Ch", "SP500Vol_Ch", "SP500_DY", "Tbill_3month", "Tbill_6month", "CPI", "Ind_Production", "LQD_volch", "HYG_volch", "JNK_volch", "original_spreads")
+0.567071674437702,99.1754509945972,c("CDX.IG_5Y", "HYOAS_Spreads", "SP500Ch", "SP500Vol_Ch", "SP500_DY", "Fedfund_rate", "CPI", "Ind_Production", "GDP_ch", "LQD_volch", "HYG_volch", "JNK_volch", "original_spreads")
+0.56612726760464,99.1182106794218,c("CDX.IG_5Y", "HYOAS_Spreads", "SP500Ch", "SP500Vol_Ch", "SP500_DY", "Tbill_3month", "Tbill_6month", "Ind_Production", "GDP_ch", "LQD_volch", "HYG_volch", "JNK_volch", "original_spreads")
+0.564879986993345,99.1392882305404,c("CDX.IG_5Y", "HYOAS_Spreads", "SP500Ch", "SP500Vol_Ch", "SP500_DY", "TEDspread_3mo", "CPI", "Ind_Production", "GDP_ch", "LQD_volch", "HYG_volch", "JNK_volch", "original_spreads")
+0.561234629409229,99.2084751008539,c("CDX.IG_5Y", "HYOAS_Spreads", "SP500Ch", "SP500Vol_Ch", "SP500_DY", "Fedfund_rate", "Tbill_3month", "CPI", "Ind_Production", "GDP_ch", "HYG_volch", "JNK_volch", "original_spreads")
+0.559790852423087,99.1709223543516,c("CDX.IG_5Y", "HYOAS_Spreads", "SP500Ch", "SP500Vol_Ch", "SP500_DY", "CPI", "Ind_Production", "Consumer_Sentiment", "GDP_ch", "LQD_volch", "HYG_volch", "JNK_volch", "original_spreads")
+0.553891397588598,99.0954898124714,c("CDX.IG_5Y", "HYOAS_Spreads", "SP500Ch", "SP500Vol_Ch", "SP500_DY", "CPI", "Ind_Production", "GDP_ch", "LQD_volch", "HYG_volch", "JNK_volch", "Price_ratio", "original_spreads")
+0.538477845523762,99.1343289871586,c("CDX.IG_5Y", "HYOAS_Spreads", "SP500Ch", "SP500Vol_Ch", "SP500_DY", "Tbill_3month", "CPI", "Ind_Production", "Consumer_Sentiment", "LQD_volch", "HYG_volch", "JNK_volch", "original_spreads")

@@ -1,0 +1,11 @@
+"Rsquareds","varExplained","dependents"
+0.732060533890053,98.9308532373608,c("CDX.IG_5Y", "HYOAS_Spreads", "SP500Ch", "SP500Vol_Ch", "SP500_DY", "CPI", "Ind_Production", "LQD_volch", "HYG_volch", "JNK_volch", "original_spreads")
+0.708275099222143,99.0008348396902,c("CDX.IG_5Y", "HYOAS_Spreads", "SP500Ch", "SP500Vol_Ch", "SP500_DY", "Ind_Production", "GDP_ch", "LQD_volch", "HYG_volch", "JNK_volch", "original_spreads")
+0.684807457747205,99.0892098198672,c("CDX.IG_5Y", "HYOAS_Spreads", "SP500Ch", "SP500Vol_Ch", "CPI", "Ind_Production", "GDP_ch", "LQD_volch", "HYG_volch", "JNK_volch", "original_spreads")
+0.684661571052695,99.1308231936605,c("CDX.IG_5Y", "HYOAS_Spreads", "SP500Ch", "SP500Vol_Ch", "SP500_DY", "CPI", "Ind_Production", "GDP_ch", "HYG_volch", "JNK_volch", "original_spreads")
+0.682221751923371,99.1270808603173,c("CDX.IG_5Y", "HYOAS_Spreads", "SP500Ch", "SP500_DY", "CPI", "Ind_Production", "GDP_ch", "LQD_volch", "HYG_volch", "JNK_volch", "original_spreads")
+0.680492716841493,99.1536355404955,c("CDX.IG_5Y", "HYOAS_Spreads", "SP500Ch", "SP500Vol_Ch", "SP500_DY", "CPI", "Ind_Production", "GDP_ch", "LQD_volch", "JNK_volch", "original_spreads")
+0.676075078847323,98.903487462512,c("CDX.IG_5Y", "HYOAS_Spreads", "SP500Ch", "SP500Vol_Ch", "SP500_DY", "CPI", "GDP_ch", "LQD_volch", "HYG_volch", "JNK_volch", "original_spreads")
+0.669360099169806,99.1096932439408,c("CDX.IG_5Y", "HYOAS_Spreads", "SP500Vol_Ch", "SP500_DY", "CPI", "Ind_Production", "GDP_ch", "LQD_volch", "HYG_volch", "JNK_volch", "original_spreads")
+0.669093268673224,99.1423506070088,c("CDX.IG_5Y", "HYOAS_Spreads", "SP500Ch", "SP500Vol_Ch", "SP500_DY", "CPI", "Ind_Production", "GDP_ch", "LQD_volch", "HYG_volch", "original_spreads")
+0.668565461245842,98.8566075920017,c("CDX.IG_5Y", "HYOAS_Spreads", "SP500Ch", "SP500Vol_Ch", "SP500_DY", "Tbill_3month", "Ind_Production", "LQD_volch", "HYG_volch", "JNK_volch", "original_spreads")
